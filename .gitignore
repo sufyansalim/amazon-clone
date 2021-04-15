@@ -14,7 +14,7 @@
 .firebase
 firebase.js
 .firebaserc
-.firebase.json
+firebase.json
 
 # misc
 .DS_Store
