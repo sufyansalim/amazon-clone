@@ -4,7 +4,7 @@
 
 ![Amazon](amazon.png)
 
-## [Live Site](https://one-time-password-77360.firebaseapp.com/)
+## [Live Site](https://fir-fc2a0.firebaseapp.com/)
 
 
 # Usage
